@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1707104298 source:c:\users\laptop\downloads\universidad\estructuras de datos\programas\aa02\main.cpp
+	<iostream>
+	"menu.hpp"
+	"collection.hpp"
+
+1707075825 source:c:\users\laptop\downloads\universidad\estructuras de datos\programas\aa02\date.cpp
+	"date.hpp"
+
+1707075825 c:\users\laptop\downloads\universidad\estructuras de datos\programas\aa02\date.hpp
+	<iostream>
+	<string>
+	<sstream>
+
+1707078264 source:c:\users\laptop\downloads\universidad\estructuras de datos\programas\aa02\product.cpp
+	"product.hpp"
+
+1707077564 c:\users\laptop\downloads\universidad\estructuras de datos\programas\aa02\product.hpp
+	<iostream>
+	<string>
+	<limits>
+	"date.hpp"
+
+1706946339 source:c:\users\laptop\downloads\universidad\estructuras de datos\programas\aa02\collection..cpp
+	"collection.hpp"
+
+1707100190 c:\users\laptop\downloads\universidad\estructuras de datos\programas\aa02\collection.hpp
+	"product.hpp"
+	<string>
+	<conio.h>
+
+1707101839 source:c:\users\laptop\downloads\universidad\estructuras de datos\programas\aa02\collection.cpp
+	"collection.hpp"
+
+1707100539 source:c:\users\laptop\downloads\universidad\estructuras de datos\programas\aa02\menu.cpp
+	"menu.hpp"
+
+1707104577 c:\users\laptop\downloads\universidad\estructuras de datos\programas\aa02\menu.hpp
+	"collection.hpp"
+
